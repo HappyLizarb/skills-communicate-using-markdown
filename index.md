@@ -4,3 +4,6 @@
 def I_am_ikun:
   return f"I'm biggest fan in this world!"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] See the graceful image I posted
+- [ ] Yell Hooray!
